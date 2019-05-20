@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\mynameisfury\\GitHub_Projects\\CustomList2\\CustomList2\\CustomList2.csproj",
+      "projectUniqueName": "C:\\Users\\mynameisfury\\Documents\\Desktop\\GitHubProjects\\CustomList2\\CustomList2\\CustomList2.csproj",
       "projectName": "CustomList2",
-      "projectPath": "D:\\mynameisfury\\GitHub_Projects\\CustomList2\\CustomList2\\CustomList2.csproj",
+      "projectPath": "C:\\Users\\mynameisfury\\Documents\\Desktop\\GitHubProjects\\CustomList2\\CustomList2\\CustomList2.csproj",
       "packagesPath": "C:\\Users\\mynameisfury\\.nuget\\packages\\",
-      "outputPath": "D:\\mynameisfury\\GitHub_Projects\\CustomList2\\CustomList2\\obj\\",
+      "outputPath": "C:\\Users\\mynameisfury\\Documents\\Desktop\\GitHubProjects\\CustomList2\\CustomList2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
